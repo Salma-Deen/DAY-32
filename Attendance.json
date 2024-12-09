@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2020-10-15",
+        "userId": "01",
+        "isPresent": true
+    },
+    {
+        "date": "2020-10-20",
+        "userId": "02",
+        "isPresent": true
+    },
+    {
+        "date": "2020-10-14",
+        "userId": "03",
+        "isPresent": false
+    },
+    {
+        "date": "2020-10-31",
+        "userId": "04",
+        "isPresent": true
+    },
+    {
+        "date": "2020-10-29",
+        "userId": "05",
+        "isPresent": false
+    },
+    {
+        "date": "2020-10-12",
+        "userId": "06",
+        "isPresent": true
+    },
+    {
+        "date": "2020-10-16",
+        "userId": "07",
+        "isPresent": false
+    },
+    {
+        "date": "2020-10-20",
+        "userId": "08",
+        "isPresent": false
+    },
+    {
+        "date": "2020-11-5",
+        "userId": "09",
+        "isPresent": true
+    }
+]
