@@ -1,0 +1,32 @@
+[
+    {
+        "userId": "01",
+        "taskName": "HTML",
+        "date": "2020-09-10",
+        "isSubmitted": true
+    },
+    {
+        "userId": "02",
+        "taskName": "HTML/CSS",
+        "date": "2020-10-20",
+        "isSubmitted": false
+    },
+    {
+        "userId": "03",
+        "taskName": "AXIOS",
+        "date": "2020-10-14",
+        "isSubmitted": true
+    },
+    {
+        "userId": "04",
+        "taskName": "CRUD",
+        "date": "2020-11-25",
+        "isSubmitted": false
+    },
+    {
+        "userId": "05",
+        "taskName": "SHOPPINGCART",
+        "date": "2020-10-19",
+        "isSubmitted": true
+    }
+]
